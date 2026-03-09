@@ -48,12 +48,14 @@ The dashboard enables intuitive exploration of key HR metrics and highlights pat
 ---
 
 ## 🖼 Dashboard Preview
+![HR Dashboard](hr-dashboard.PNG)
+
+---
+
 ## 🔗 Live Dashboard Access
 
-The dashboard is published on Power BI Service and can be accessed here:
+🌐[View Power BI Report Here](https://app.powerbi.com/view?r=eyJrIjoiNTE1MDhiNDEtMjk5Mi00ZjZjLWFmZWYtNzNiZjgzNWFhM2QzIiwidCI6IjNiY2YzZjA3LWFkMDAtNDlkMC1iOTNiLWI3ZWQ0MDA1MzI3NyJ9)
 
-🌐 https://app.powerbi.com/groups/me/reports/0c8551a9-e4e3-4051-9370-805eae0441a5/ReportSection?experience=power-bi
-![HR Dashboard](hr-dashboard.PNG)
 
 ---
 
